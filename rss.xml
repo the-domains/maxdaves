@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WHERE THE CREATIVE AND ANALYTICAL UNIFY]]></title>
+        <description><![CDATA[WHERE THE CREATIVE AND ANALYTICAL UNIFY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 06:22:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Max Daves posted this photo on 2015-10-29. 46 likes. 12 comments. 0 shares.</p>]]></description>
+            <link>https://www.facebook.com/photo.php?fbid=10153753615834809&amp;set=pb.704214808.-2207520000.1447821973.&amp;type=3&amp;theater</link>
+            <guid isPermaLink="false">30e9d741-82ce-45f4-8a85-6bc48b59b407</guid>
+            <pubDate>Wed, 18 Nov 2015 06:22:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
